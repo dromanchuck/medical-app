@@ -14,15 +14,6 @@
 - [Key Features](#-key-features)
 - [Technology Stack](#-technology-stack)
 - [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the App](#running-the-app)
-- [Scripts](#-scripts)
-- [Project Structure](#-project-structure)
-- [Configuration](#-configuration)
-- [Build & Deployment](#-build--deployment)
-- [Monitoring](#-monitoring)
-- [Contributing](#-contributing)
 
 ---
 
